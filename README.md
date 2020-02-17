@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kharman82/learning-journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kharman82/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## About Me :skull_and_crossbones:
+_My name is Ken Harman. I am a jack of all trades and still figuring out which one to master! I am a father of two beautiful kids. I enjoy spending as much time with my kids as possible. I've lived all over the US. Currently I reside in Seattle, WA. Looking forward to starting a new journey in the Tech industry once I graduate from the Code Fellows bootcamp!_ Check out my link: https://kharman82.github.io/learning-journal.com
+# *Growth Mindset Summary*
+* Growth Mindset is where someone can prep themselves mentally for the path to success.
+## Reminders
+-  I plan to work hard and never give up. 
+-  I will challenge myself mentally in order to keep growing and being the best that I can be.
+-  Always aim for the Moon, that way I can always achieve my goals!
