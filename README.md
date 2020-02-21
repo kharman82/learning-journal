@@ -10,4 +10,9 @@ _My name is Ken Harman. I am a jack of all trades and still figuring out which o
 [growth mindset](growth_mindset.md)  
 [learning git](learning_git.md)  
 [learning HTML](learning_HTML.md)
-
+[binary](binary.md)  
+[cheat sheet](cheat-sheet.md)  
+[learning-about-css](learning-about-css.md)
+[learningCSS](learningCSS.md)  
+[programing-js](programing-js.md)
+[loops](loops.md)
